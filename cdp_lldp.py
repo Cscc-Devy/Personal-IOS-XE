@@ -2,7 +2,7 @@ import sys
 import cli
 
 ### Let's expand this code 
-###
+### Adding note
 Author: Shaun Gomez
 Version: 1.0
 
